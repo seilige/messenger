@@ -1,0 +1,131 @@
+{
+  "chat_type": "global",
+  "created_date": "2025-06-14 10:00:00",
+  "messages": [
+    {
+      "message_id": 1718360400000,
+      "sender_username": "user1",
+      "sender_user_id": 1,
+      "message_text": "Hello everyone!",
+      "message_type": "global_message",
+      "timestamp": "2025-06-14 10:00:00"
+    }
+,
+    {
+      "message_id": 1749951984049,
+      "sender_username": "t",
+      "sender_user_id": 10001,
+      "message_text": "f",
+      "message_type": "global_message",
+      "timestamp": "2025-06-15 01:46:24"
+    }
+,
+    {
+      "message_id": 1749951984770,
+      "sender_username": "t",
+      "sender_user_id": 10001,
+      "message_text": "f",
+      "message_type": "global_message",
+      "timestamp": "2025-06-15 01:46:24"
+    }
+,
+    {
+      "message_id": 1749951999297,
+      "sender_username": "t",
+      "sender_user_id": 10001,
+      "message_text": "lol kok idite naxuo",
+      "message_type": "global_message",
+      "timestamp": "2025-06-15 01:46:39"
+    }
+,
+    {
+      "message_id": 1749952019737,
+      "sender_username": "ee",
+      "sender_user_id": 10003,
+      "message_text": "g",
+      "message_type": "global_message",
+      "timestamp": "2025-06-15 01:46:59"
+    }
+,
+    {
+      "message_id": 1750208245368,
+      "sender_username": "t",
+      "sender_user_id": 10001,
+      "message_text": "h",
+      "timestamp": "2025-06-18 00:57:25",
+      "message_type": "global_message"
+    }
+,
+    {
+      "message_id": 1750208290755,
+      "sender_username": "t",
+      "sender_user_id": 10001,
+      "message_text": "y",
+      "timestamp": "2025-06-18 00:58:10",
+      "message_type": "global_message"
+    }
+,
+    {
+      "message_id": 1750208313229,
+      "sender_username": "t",
+      "sender_user_id": 10001,
+      "message_text": "y",
+      "timestamp": "2025-06-18 00:58:33",
+      "message_type": "global_message"
+    }
+,
+    {
+      "message_id": 1751152142313,
+      "sender_username": "t",
+      "sender_user_id": 10001,
+      "message_text": "g",
+      "timestamp": "2025-06-28 23:09:02",
+      "message_type": "global_message"
+    }
+,
+    {
+      "message_id": 1751156838450,
+      "sender_username": "t",
+      "sender_user_id": 10001,
+      "message_text": "gk",
+      "timestamp": "2025-06-29 00:27:18",
+      "message_type": "global_message"
+    }
+,
+    {
+      "message_id": 1751156838914,
+      "sender_username": "t",
+      "sender_user_id": 10001,
+      "message_text": "g",
+      "timestamp": "2025-06-29 00:27:18",
+      "message_type": "global_message"
+    }
+,
+    {
+      "message_id": 1751156839179,
+      "sender_username": "t",
+      "sender_user_id": 10001,
+      "message_text": "g",
+      "timestamp": "2025-06-29 00:27:19",
+      "message_type": "global_message"
+    }
+,
+    {
+      "message_id": 1751156839380,
+      "sender_username": "t",
+      "sender_user_id": 10001,
+      "message_text": "g",
+      "timestamp": "2025-06-29 00:27:19",
+      "message_type": "global_message"
+    }
+,
+    {
+      "message_id": 1751156839598,
+      "sender_username": "t",
+      "sender_user_id": 10001,
+      "message_text": "g",
+      "timestamp": "2025-06-29 00:27:19",
+      "message_type": "global_message"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿  client.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\c++\сссссссссссссссссс\Новая папка\client\Project1\client.cpp(317,38): warning C4101: 'e': unreferenced local variable
+C:\c++\сссссссссссссссссс\Новая папка\client\Project1\client.cpp(495,38): warning C4101: 'e': unreferenced local variable
+C:\c++\сссссссссссссссссс\Новая папка\client\Project1\client.cpp(544,42): warning C4101: 'e': unreferenced local variable
+C:\c++\сссссссссссссссссс\Новая папка\client\Project1\net_message.h(45,43): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'client.cpp')
+      C:\c++\сссссссссссссссссс\Новая папка\client\Project1\net_message.h(45,43):
+      the template instantiation context (the oldest one first) is
+          C:\c++\сссссссссссссссссс\Новая папка\client\Project1\client.cpp(170,13):
+          see reference to function template instantiation 'olc::net::message<CustomMsgTypes> &olc::net::operator <<<uint32_t>(olc::net::message<CustomMsgTypes> &,const DataType &)' being compiled
+          with
+          [
+              DataType=uint32_t
+          ]
+              C:\c++\сссссссссссссссссс\Новая папка\client\Project1\client.cpp(170,13):
+              see the first reference to 'olc::net::operator <<' in 'CustomClient::SendGlobalMessage'
+  
+C:\c++\сссссссссссссссссс\Новая папка\client\Project1\net_client.h(184,54): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'client.cpp')
+      C:\c++\сссссссссссссссссс\Новая папка\client\Project1\net_client.h(184,54):
+      the template instantiation context (the oldest one first) is
+          C:\c++\сссссссссссссссссс\Новая папка\client\Project1\client.cpp(22,39):
+          see reference to class template instantiation 'olc::net::client_interface<CustomMsgTypes>' being compiled
+          C:\c++\сссссссссссссссссс\Новая папка\client\Project1\net_client.h(150,18):
+          while compiling class template member function 'void olc::net::client_interface<CustomMsgTypes>::ParseClientList(const std::string &,std::vector<olc::net::client_interface<CustomMsgTypes>::ClientInfo,std::allocator<olc::net::client_interface<CustomMsgTypes>::ClientInfo>> &)'
+              C:\c++\сссссссссссссссссс\Новая папка\client\Project1\net_client.h(129,32):
+              see the first reference to 'olc::net::client_interface<CustomMsgTypes>::ParseClientList' in 'olc::net::client_interface<CustomMsgTypes>::DisplayConnectedClients'
+              C:\c++\сссссссссссссссссс\Новая папка\client\Project1\client.cpp(1143,44):
+              see the first reference to 'olc::net::client_interface<CustomMsgTypes>::DisplayConnectedClients' in 'CustomClient::ProcessMessages'
+  
+  net_message.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+  Generating Code...
+  Project1.vcxproj -> C:\c++\сссссссссссссссссс\Новая папка\client\x64\Debug\Project1.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

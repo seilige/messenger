@@ -1,0 +1,48 @@
+{
+  "messages": [
+    {
+      "message_id": 1717767025123,
+      "conversation_id": "user1_user2",
+      "sender_username": "user1",
+      "sender_user_id": 123,
+      "recipient_username": "user2",
+      "recipient_user_id": 456,
+      "message_text": "Hello there!",
+      "timestamp": "2025-06-07 14:30:25",
+      "message_type": "direct_message"
+    },
+    {
+      "message_id": 1717767125456,
+      "conversation_id": "user1_user2",
+      "sender_username": "user2",
+      "sender_user_id": 456,
+      "recipient_username": "user1",
+      "recipient_user_id": 123,
+      "message_text": "Hi back!",
+      "timestamp": "2025-06-07 14:32:05",
+      "message_type": "direct_message"
+    }
+,
+    {
+      "message_id": 1749302772712,
+      "conversation_id": "ee_t",
+      "sender_username": "ee",
+      "sender_user_id": 10003,
+      "recipient_username": "t",
+      "recipient_user_id": 10001,
+      "message_text": "j",
+      "message_type": "direct_message"
+    }
+,
+    {
+      "message_id": 1749302773979,
+      "conversation_id": "ee_t",
+      "sender_username": "t",
+      "sender_user_id": 10001,
+      "recipient_username": "ee",
+      "recipient_user_id": 10003,
+      "message_text": "jj",
+      "message_type": "direct_message"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "last_user_id": 10004,
+  "users": [
+    {
+      "id": 10001,
+      "username": "t",
+      "password_hash": "t",
+      "email": "t",
+      "registration_date": "2025-05-01 22:08:17"
+    },
+    {
+      "id": 10002,
+      "username": "y",
+      "password_hash": "u",
+      "email": "i",
+      "registration_date": "2025-05-01 22:09:25"
+    },
+    {
+      "id": 10003,
+      "username": "ee",
+      "password_hash": "ee",
+      "email": "ee",
+      "registration_date": "2025-05-01 22:29:05"
+    },
+    {
+      "id": 10004,
+      "username": "hh",
+      "password_hash": "hh",
+      "email": "hh",
+      "registration_date": "2025-06-06 12:16:05"
+    }
+  ]
+}
